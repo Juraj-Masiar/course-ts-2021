@@ -6,6 +6,7 @@ https://forms.gle/5wYzoWvTdLa6CKd66
 
 ## Ako začať
 
+### Nástroje:
 Ak to myslíte s programovaním vážne, musíte si nainštalovať vývojové prostredie aj doma.  
 Konkrétne budete potrebovať tieto tri nástroje:  
 1. `git`: https://git-scm.com/downloads
@@ -13,9 +14,15 @@ Konkrétne budete potrebovať tieto tri nástroje:
 3. `WebStorm` 30 dňová verzia : https://www.jetbrains.com/webstorm/  
 (bezplatnú licenciu pre študentov vybavíme na krúžku)
 
+### Kontá:
+Vytvorte si konto na týchto stránkach:  
+- https://github.com
+- https://account.jetbrains.com/login
+
+### Klávesnica:
 Budeme programovať na anglickej klávesnici, takže treba vedieť ako si prepnúť klávesnicu zo slovenskej na anglickú.  
 Pri programovaní sa používajú aj menej známe symboly, hlavne tieto:  
-`() {} [] ; * - + & | _ ! , . : / \ " ' ?`  
+`() {} [] ; * - + & | _ ! ? , . : / \ " '`  
 
 Anglická klávensica:  
 ![image](https://user-images.githubusercontent.com/6358971/133761517-b223cee3-3dcc-49c9-b9a8-c6c37bfcc679.png)
