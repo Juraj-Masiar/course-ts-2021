@@ -31,5 +31,6 @@ Nemusíte sa to učiť naspamäť, postupne sa v tom zorietujete ako budete pís
 
 
 ### Užitočné odkazy
+Diskutovať môžeme tu: https://github.com/Juraj-Masiar/course-ts-2021/discussions
 Facebook stránka: https://www.facebook.com/programovanieDK/  
-Slack stránka: https://programovaniedk.slack.com/  
+Slack stránka pre chat: https://programovaniedk.slack.com/  
