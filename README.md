@@ -1,6 +1,7 @@
 # Krúžok programovania v jazyku TypeScript pre študentov v Dolnom Kubíne v školskom roku 2021.
 
 ## Novinky ku krúžku
+- 04.11.2021 o 15:00 bude prvé stretnutie na 4. poschodí na Obchodnej Akadémii
 - 17.09.2021, začíname začiatkom Októbra, prihlasujte sa tu:
 https://forms.gle/5wYzoWvTdLa6CKd66
 
