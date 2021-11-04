@@ -13,7 +13,7 @@ Konkrétne budete potrebovať tieto tri nástroje:
 1. `git`: https://git-scm.com/downloads
 2. `Node` verziu 16: https://nodejs.org/en/
 3. `WebStorm` 30 dňová verzia : https://www.jetbrains.com/webstorm/  
-(bezplatnú licenciu pre študentov vybavíme na krúžku)
+(bezplatnú licenciu pre študentov [vybavíme](https://www.jetbrains.com/shop/eform/students) na krúžku)
 
 ### Kontá:
 Vytvorte si konto na týchto stránkach:  
