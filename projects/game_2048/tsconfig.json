@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "incremental": true,
+    "sourceMap": true,
+    "lib": ["es5", "es6", "es7", "esnext", "dom", "dom.iterable"],
+    "target": "es2019",
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "skipLibCheck": true,
+    "strict": true
+  },
+  "exclude": [
+    "dist"
+  ]
+}
