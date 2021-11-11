@@ -5,6 +5,7 @@
   "private": true,
   "scripts": {
     "build": "webpack --mode development -w",
+    "serve": "serve dist",
     "clean": "rm -rf rm -rf dist/*",
     "test": "jest"
   },
@@ -27,6 +28,7 @@
     "mini-css-extract-plugin": "^2.4.4",
     "sass": "^1.43.4",
     "sass-loader": "^12.3.0",
+    "serve": "^13.0.2",
     "style-loader": "^3.3.1",
     "ts-jest": "^27.0.7",
     "ts-loader": "^9.2.6",
