@@ -15,6 +15,7 @@ export interface Grid {
 export function moveGrid(grid: Grid, direction: Direction): Grid {
   // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 
+  
   return {
     data: [
       [0, 0, 0, 0],
