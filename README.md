@@ -1,6 +1,13 @@
 # Krúžok programovania v jazyku TypeScript pre študentov v Dolnom Kubíne v školskom roku 2021.
 
+## Domáca úloha pre odváždnych
+Pokúste sa naprogramovať funkciu `moveNumbersLeft` v súbore [grid.ts](projects/game_2048/src/grid/grid.ts).  
+Po spustení by mal fungovať test v súbore [grid_line_move.test.ts](projects/game_2048/test/grid_line_move.test.ts).  
+
+Ak sa vám to podarí, skúste opraviť aj funkciu `moveGrid` a jej test v súbore [grid_operations.test.ts](projects/game_2048/test/grid_operations.test.ts). Pozor, tento test testuje posun doprava! Našťastie pole sa dá otočiť pomocou `reverse()` funkcie.
+
 ## Novinky ku krúžku
+- 11.11.2021 - dnes sme si napísali náš prvý test
 - 04.11.2021 o 15:00 bude prvé stretnutie na 4. poschodí na Obchodnej Akadémii
 - 17.09.2021, začíname začiatkom Októbra, prihlasujte sa tu:
 https://forms.gle/5wYzoWvTdLa6CKd66

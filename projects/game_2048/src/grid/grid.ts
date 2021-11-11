@@ -15,7 +15,7 @@ export interface Grid {
 export function moveGrid(grid: Grid, direction: Direction): Grid {
   // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 
-  
+
   return {
     data: [
       [0, 0, 0, 0],
@@ -28,3 +28,8 @@ export function moveGrid(grid: Grid, direction: Direction): Grid {
   };
 }
 
+// moves numbers in a line in a single direction
+export function moveNumbersLeft(line: number[]): number[] {
+
+  return [0, 0, 0, 0];
+}
