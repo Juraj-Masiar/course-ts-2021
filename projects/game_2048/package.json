@@ -6,7 +6,7 @@
   "scripts": {
     "build": "webpack --mode development -w",
     "clean": "rm -rf rm -rf dist/*",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -20,12 +20,15 @@
   },
   "homepage": "https://github.com/Juraj-Masiar/course-ts-2021#readme",
   "devDependencies": {
+    "@types/jest": "^27.0.2",
     "css-loader": "^6.5.1",
     "html-webpack-plugin": "^5.5.0",
+    "jest": "^27.3.1",
     "mini-css-extract-plugin": "^2.4.4",
     "sass": "^1.43.4",
     "sass-loader": "^12.3.0",
     "style-loader": "^3.3.1",
+    "ts-jest": "^27.0.7",
     "ts-loader": "^9.2.6",
     "typescript": "^4.4.4",
     "webpack": "^5.63.0",
